@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trigz360
-- 👀 I’m interested in python, java algorithms
+- 👀 I’m interested in java algorithms
 - 🌱 I’m currently learning Algorithms and data structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
